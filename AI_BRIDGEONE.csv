@@ -1,0 +1,73 @@
+DEMANDANTE,INDICAÇÃO,TECNOLOGIA,Rara,RECOMENDAÇÃO INICIAL,RECOMENDAÇÃO FINAL,RECOMENDAÇÃO ALTERADA,FAIXA PIB,ICER VALOR MIN,ICER VALOR MAX,TIPO ESTUDO,COMPARADOR,SOMA AIO VALOR 5ANOS,SOMA AIO VALOR INCR 5ANOS
+Sociedade médica,Câncer de mama - RH+ HER2- - avançado ou metastático - 1a ou 2a linha - associado a fulvestranto,Abemaciclibe 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),821665,1590247,Custo-efetividade,SIM,NE,NE
+Sociedade médica,Câncer de mama - RH+ HER2- - avançado ou metastático - 2a linha,Abemaciclibe 3,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),316167,686268,Custo-efetividade,SIM,NE,NE
+Indústria farmacêutica,"Câncer de mama - RH+ HER2- linfonodos+ - adjuvante precoce, com alto risco de recorrência - 2a linha",Abemaciclibe 4,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),332099,332099,Custo-utilidade,SIM,134636185,28342737
+Indústria farmacêutica,Câncer de mama - HER2 negativo,Abemaciclibe + terapia endócrina 1,No,Desfavoravel,Desfavoravel,Não,> 1x PIB < 3x (41 - 120),95020,95020,Custo-utilidade,SIM,311175172.51,226163710.57
+Indústria farmacêutica / Sociedade médica,Linfoma de Células do Manto,Acalabrutinibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),710036.39,1275787,Custo-efetividade,SIM,278157580.08,60494527.24
+Indústria farmacêutica,Leucemia linfocítica crônica (LLC) - 1a linha,Acalabrutinibe 2,No,Favoravel,Favoravel,Não,1x PIB (40K),NI,NI,Custo-minimização,SIM,1851106838,-320241
+Indústria farmacêutica,Leucemia linfocítica crônica (LLC) - 2a linha,Acalabrutinibe 3,No,Favoravel,Favoravel,Não,1x PIB (40K),NI,NI,Custo-minimização,SIM,2809295866,-59521
+Indústria farmacêutica,Linfoma de células do manto,Acalabrutinibe 4,No,Desfavoravel,Favoravel,SIM Favoravel,1x PIB (40K),NI,NI,Custo-minimização,SIM,205382079,-16377555
+Sociedade médica,Câncer de pulmão de não pequenas células - ALK+ - localmente avançado ou metastático - 1a linha,Alectinibe 1,No,Favoravel,Favoravel,Não,1x PIB (40K),Dominante,Dominante,Custo-efetividade,SIM,2449291504.42,327009677.72
+Sociedade médica,Câncer de próstata - não metastático resistente à castração,Apalutamida 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),179292.18,179292.18,Custo-efetividade,SIM,167673205.85,142950869.67
+Indústria farmacêutica,Câncer de próstata - metastático sensível à castração,Apalutamida 2,No,Desfavoravel,Favoravel,SIM Favoravel,> 3x PIB (>120K),429143,429143,Custo-utilidade,Não,326182755,159076450
+Sociedade médica,Carcinoma renal metastático,Axitinibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),394216.6,928003.95,Custo-efetividade,SIM,685543138,-193175277
+Indústria farmacêutica,Câncer de pulmão de não pequenas células - ALK+ - localmente avançado ou metastático - 1a linha,Brigatinibe 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),636849,636849,Custo-utilidade,SIM,353774998.98,-9245845
+Sociedade médica,Carcinoma renal,Cabozantinibe 1,No,Favoravel,Favoravel,Não,1x PIB (40K),NI,NI,Custo-efetividade,SIM,777586600.64,-135233062
+Indústria farmacêutica,Câncer colorretal - mutação BRAF V600E segunda linha,Cetuximabe + Encorafenibe 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),321733.01,404891.34,Custo-utilidade,SIM,280719544.99,81771473.41
+Sociedade médica,Mieloma múltiplo,Citrato de ixazomibe 1,RARA,Favoravel,Favoravel,Não,> 3x PIB (>120K),1371724262.03,1371724262.03,Custo-utilidade,SIM,NI,NI
+Sociedade médica,Leucemia mieloide crônica,Cloridrato ponatinibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),610264.88,793098.28,Custo-utilidade,Não,83611280,20679796
+Sociedade médica,Melanoma,Cobimetinibe 1,No,Favoravel,Favoravel,Não,1x PIB (40K),NI,NI,Custo-minimização,SIM,722211470.91,64228.64
+Sociedade médica,Câncer de pulmão de não pequenas células - ROS1+ - avançado,Crizotinibe 1,No,Desfavoravel,Desfavoravel,Não,1x PIB (40K),35955.83,40222.84,Custo-efetividade,SIM,2515175120,152605624
+Indústria farmacêutica / Sociedade médica,Melanoma (em combinação com Trametinibe),Dabrafenibe + Trametinibe 1,No,Favoravel,Favoravel,Não,> 1x PIB < 3x (41 - 120),88195,101079,Custo-utilidade,Não,107354884.52,5445278.47
+Indústria farmacêutica,Mieloma múltiplo,Daratumumabe + Pomalidomida 1,RARA,Desfavoravel,Desfavoravel,Não,1x PIB (40K),NI,NI,Custo-minimização,Não,2729000000,-123700000
+Indústria farmacêutica,Câncer de próstata - não metastático resistente à castração,Darolutamida 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),Dominante,502229.23,Custo-utilidade,SIM,332550306.55,-183635
+Pessoa física profissional da saúde,Câncer de próstata - metastático,Darolutamida 2,No,Desfavoravel,Favoravel,SIM Favoravel,> 3x PIB (>120K),366497.06,708750.12,Custo-efetividade,SIM,1192751614,46277407
+Associação de pacientes / Sociedade médica,Câncer de próstata - não metastático resistente à castração,Enzalutamida 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),174246,194185,Custo-efetividade,SIM,211550826,117242367
+Indústria farmacêutica,Câncer de próstata - metastático sensível à castração,Enzalutamida 2,No,Desfavoravel,Favoravel,SIM Favoravel,> 3x PIB (>120K),147262.34,363380.01,Custo-utilidade,Não,1148828551,173566019
+Indústria farmacêutica,Câncer urotelial,Erdafitinibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),384840,384840,Custo-utilidade,SIM,194000000,37902000
+Indústria farmacêutica,Leucemia mieloide aguda (LMA) - FLT3+ - recidivada ou refratária,Hemifumarato de gilteritinibe 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),488825.3,488825.3,Custo-utilidade,SIM,356568786,173566181
+Associação de pacientes / Indústria farmacêutica / Sociedade médica,Linfoma de Células do Manto,Ibrutinibe 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),1296427,1296427,Custo-efetividade,SIM,NE,NE
+Associação de pacientes / Indústria farmacêutica / Sociedade médica,Leucemia linfocítica crônica (LLC) - refratários e/ou recaídos,Ibrutinibe 2,No,Favoravel,Favoravel,Não,1x PIB (40K),519000,702000,Custo-efetividade,SIM,NE,NE
+Associação de pacientes / Indústria farmacêutica / Sociedade médica,Leucemia linfocítica crônica (LLC) - 1a linha,Ibrutinibe 3,No,Favoravel,Favoravel,Não,1x PIB (40K),333204.39,388534.29,Custo-efetividade,SIM,NE,NE
+Indústria farmacêutica,Mieloma múltiplo refratário recidivado,Lenalidomida 1,RARA,Favoravel,Favoravel,Não,> 3x PIB (>120K),360690,381584,Custo-efetividade,NI,6728388178,-413637695
+Indústria farmacêutica,Mieloma múltiplo,Lenalidomida 2,RARA,Favoravel,Favoravel,Não,> 3x PIB (>120K),1587426,2322572,Custo-efetividade,Não,629410370,209461914
+Indústria farmacêutica,Mieloma múltiplo,Lenalidomida 3,RARA,Favoravel,Favoravel,Não,> 3x PIB (>120K),Dominante,Dominante,Custo-efetividade,NI,629410370,209461914
+Indústria farmacêutica,Sindrome mielodisplásica,Lenalidomida 4,RARA,Favoravel,Favoravel,Não,> 3x PIB (>120K),332031,333613,Custo-efetividade,Não,143281930.18,108611389.72
+Sociedade médica,Carcinoma renal metastático (em combinação com Everolimo),Lenvatinibe 1,No,Desfavoravel,Desfavoravel,Não,1x PIB (40K),Dominante,Dominante,Custo-efetividade,SIM,1042754613.15,-113652496.18
+Sociedade médica,Carcinoma hepatocelular - avançado ou não ressecável - 1a linha,Lenvatinibe 2,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),66149.17,281517.69,Custo-efetividade,SIM,505301257.07,-44989933.33
+Indústria farmacêutica,Câncer tireoide metastático,Lenvatinibe 3,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),376391.28,513519.22,Custo-efetividade,SIM,168709939.76,19986519.85
+Indústria farmacêutica,Câncer endometrial - avançado,Lenvatinibe + pembrolizumabe 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),622252,622252,Custo-efetividade,SIM,19640155,12952833
+Indústria farmacêutica,Câncer tieroide - avançado refratário,Levomalato cabozantinibe 1,RARA,Favoravel,Favoravel,Não,> 3x PIB (>120K),807321,807321,Custo-utilidade,Não,NI,68768582.28
+Indústria farmacêutica,Carcinoma hepatocelular - 2a linha,Levomalato de cabozantinibe 1,RARA,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),458222,1386351,Custo-utilidade,SIM,3565158836,5292457
+Indústria farmacêutica,Câncer de rim - avançado ou metastático - 1a linha,Levomalato de cabozantinibe + nivolumabe 1,RARA,Desfavoravel,Favoravel,SIM Favoravel,1x PIB (40K),NI,NI,Custo-utilidade,SIM,NI,318437600.34
+Indústria farmacêutica,Câncer de pulmão de não pequenas células - ALK+ - localmente avançado ou metastático - 1a linha,Lorlatinibe 1,No,Favoravel,Favoravel,Não,1x PIB (40K),NI,NI,Custo-minimização,SIM,2267736765.44,-65347450.6
+Indústria farmacêutica,Câncer de pulmão de não pequenas células - ALK+ - localmente avançado ou metastático - 2a linha e posteriores,Lorlatinibe 2,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),176072.82,216627.02,Custo-utilidade,SIM,636953123,74406010
+Operadora,Câncer tireoide - avançado ou metastático.,Mesilato de lenvatinibe 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),215647.83,215647.83,Custo-utilidade,SIM,97699936,78098226
+Indústria farmacêutica / Sociedade médica,Leucemia mieloide aguda (LMA) - FLT3+ - recém-diagnosticada,Midostaurina 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),145040,171497,Custo-utilidade,SIM,90344708.61,67275908.61
+Indústria farmacêutica,Leucemia mieloide crônica (LMC) - PH+ - recém diagnosticada - fases crônica escoreSokal de alto risco,Nilotinibe 1,No,Favoravel,Favoravel,Não,> 1x PIB < 3x (41 - 120),55161,55403,Custo-efetividade,SIM,NE,NE
+Indústria farmacêutica / Sociedade médica,"Câncer de ovário - seroso ou endometrióide, alto grau (2 ou maior) ou recidivado - resposta à quimio 1a linha (platina)",Olaparibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),424734.81,548723.61,Custo-efetividade,Não,NI,NI
+Indústria farmacêutica,"Câncer de ovário - BRCA+ - recém diagnosticado, seroso e endometrióide, alto grau (2 ou maior) ou avançado (III ou IV) - resposta à quimio 1a linha (platina)",Olaparibe 2,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),512319.55,857134.82,Custo-efetividade,SIM,178211981,54849943
+Indústria farmacêutica / Sociedade médica,"Câncer de mama - HER2- BRCA+ - neoadjuvante, adjuvante ou metastático - 2a linha",Olaparibe 3,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),595099.96,811140.13,NI,SIM,368685.43,312674.09
+Indústria farmacêutica,"Câncer de ovário - seroso ou endometrióide, alto grau (2 ou maior) ou recidivado - resposta à quimio 1a linha (platina)",Olaparibe 4,No,Favoravel,Favoravel,Não,> 1x PIB < 3x (41 - 120),115678,115678,Custo-utilidade,SIM,1022713450.65,63299430.61
+Indústria farmacêutica,"Câncer de ovário - BRCA+ - recém diagnosticado, seroso e endometrióide, alto grau (2 ou maior) ou avançado - resposta à quimio 1a linha (platina)",Olaparibe 5,No,Favoravel,Favoravel,Não,1x PIB (40K),Dominante,Dominante,Custo-utilidade,SIM,429925183,-61431930
+Indústria farmacêutica,Carcinoma epitelial de ovário - HRD positivo - avançado - estágio FIGO III-IV - 1ª linha,Olaparibe + Bevacizumabe 1,No,Desfavoravel,Favoravel,SIM Favoravel,1x PIB (40K),36893,36893,Custo-efetividade,SIM,370674056,161417731
+Associação de pacientes / Indústria farmacêutica,Câncer de pulmão de não pequenas células - EGFR T790M+ - localmente avançado ou metastático - 2a linha,Osimertinibe 2,No,Desfavoravel,Desfavoravel,Não,1x PIB (40K),NI,NI,Custo-efetividade,SIM,320167245,53092114
+Sociedade médica,Câncer de mama - RH+ HER2- - avançado ou metastático - 1a ou 2a linha,Palbociclibe 1,No,Desfavoravel,Favoravel,SIM Favoravel,> 3x PIB (>120K),907615.99,926930.5,Custo-efetividade,SIM,NI,NI
+Indústria farmacêutica,Câncer de rim - avançado ou metastático - 1a linha,Pembrolizumabe + Axitinibe 1,RARA,Desfavoravel,Favoravel,SIM Favoravel,1x PIB (40K),NI,NI,Custo-efetividade,SIM,277939934,4912394
+Indústria farmacêutica,Mieloma múltiplo,Pomalidomida 1,RARA,Favoravel,Favoravel,Não,1x PIB (40K),NI,NI,Custo-minimização,SIM,2649500000,-203300000
+Sociedade médica,Câncer colorretal - metastático - 3a linha,Regorafenibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),351673.81,351673.81,Custo-efetividade,Não,NI,NI
+Sociedade médica,Carcinoma hepatocelular - 2a linha,Regorafenibe 2,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),268069.93,268069.93,Custo-efetividade,Não,68667474.88,41082285.5
+Indústria farmacêutica,Câncer colorretal - metastático - 3a linha,Regorafenibe 3,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),335403,335403,Custo-utilidade,Não,527517237,195205275
+Indústria farmacêutica,Câncer colorretal - metastático - 3a linha,Regorafenibe 4,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),829112,829112,Custo-efetividade,Não,947545021,293317803
+Indústria farmacêutica / Sociedade médica,Câncer de mama - RH+ HER2- - avançado ou metastático,Ribociclibe 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),146695,254635,Custo-efetividade,SIM,140828502,140828502
+Indústria farmacêutica,Policitemia vera,Ruxolitinibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),267919,267919,Custo-utilidade,Não,471885602.4,471885602.4
+Sociedade médica,Policitemia vera,Ruxolitinibe 2,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),267919,267919,Custo-utilidade,Não,471885602.4,471885602.4
+Indústria farmacêutica,Câncer de mama - avançado ou metastático - HER2 neg - mutação germinativa BRCA 1 e 2,Tosilato de talazoparibe  1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),492496.49,619877.03,Custo-utilidade,SIM,142080884.07,23439849.92
+Indústria farmacêutica,Câncer colorretal - metastático - 3a linha,Trifluridina + cloridrato de tipiracila 1,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),604899.98,604899.98,Custo-efetividade,Não,273100290.54,8012531
+Indústria farmacêutica,Câncer gástrico - metastático - 3a linha,Trifluridina + cloridrato de tipiracila 2,No,Favoravel,Favoravel,Não,> 3x PIB (>120K),413509.32,413509.32,Custo-utilidade,Não,38068644.16,34900409.97
+Indústria farmacêutica,Câncer tireoide metastático,Vandetanibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),406476,406476,Custo-efetividade,Não,10417730,10417730
+Associação de pacientes / Sociedade médica,Leucemia linfocítica crônica (LLC) - 2a linha,Venetoclax 1,No,Favoravel,Favoravel,Não,1x PIB (40K),NI,NI,Custo-minimização,SIM,1705034002,-221480972
+Associação de pacientes / Sociedade médica,Leucemia mieloide aguda (LMA) - recém-diagnosticada - inelegível para quimioterapia intensiva,Venetoclax 2,No,Favoravel,Favoravel,Não,> 1x PIB < 3x (41 - 120),39415,78152,Custo-efetividade,SIM,NI,NI
+Sociedade médica,Leucemia linfocítica crônica (LLC) - 1a linha,Venetoclax 3,No,Favoravel,Favoravel,Não,1x PIB (40K),NI,NI,Custo-minimização,SIM,3473158881,-470015914
+Sociedade médica,Carcinoma basocelular avançado,Vismodegibe 1,No,Desfavoravel,Desfavoravel,Não,> 3x PIB (>120K),178554,235787,NI,Não,NI,NI
+Indústria farmacêutica,Linfoma de Células do Manto,Zanubrutinibe 2,No,Desfavoravel,Favoravel,SIM Favoravel,1x PIB (40K),NI,NI,Custo-minimização,SIM,311500229,-5576147
